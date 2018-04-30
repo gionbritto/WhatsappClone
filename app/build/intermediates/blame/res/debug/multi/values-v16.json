@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\Users\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\DEV2\\.android\\build-cache\\962914edf2487e856db1bc01df26a0bc5e0d234f\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

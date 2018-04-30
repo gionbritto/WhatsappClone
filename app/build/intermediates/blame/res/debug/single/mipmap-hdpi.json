@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

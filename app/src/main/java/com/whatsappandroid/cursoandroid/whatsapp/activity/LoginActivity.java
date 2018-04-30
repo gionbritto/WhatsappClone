@@ -1,5 +1,6 @@
 package com.whatsappandroid.cursoandroid.whatsapp.activity;
 
+import android.Manifest;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,7 +12,8 @@ import android.widget.EditText;
 
 import com.github.rtoshiro.util.format.SimpleMaskFormatter;
 import com.github.rtoshiro.util.format.text.MaskTextWatcher;
-import com.whatsappandroid.cursoandroid.whatsapp.Helper.Preferences;
+import com.whatsappandroid.cursoandroid.whatsapp.Helper.Permissions;
+import com.whatsappandroid.cursoandroid.whatsapp.Helper.mPreferences;
 import com.whatsappandroid.cursoandroid.whatsapp.R;
 
 import java.util.HashMap;
@@ -24,11 +26,17 @@ public class LoginActivity extends AppCompatActivity {
     private EditText cCode;         //Country Code textfield
     private EditText sCode;         //State Code textfield
     private Button   btnSignUp;
+    private String[] necessaryPermissions = new String[]{
+            Manifest.permission.SEND_SMS,
+            Manifest.permission.INTERNET
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
+        Permissions.validPermissions(this, necessaryPermissions);
 
         telephone   = (EditText) findViewById(R.id.edt_cell_number);
         cCode       = (EditText) findViewById(R.id.edt_country_code);
@@ -73,7 +81,7 @@ public class LoginActivity extends AppCompatActivity {
                 String smsMessage = "Your Whatsapp Confirmation code is: " + token;
 
                 //Save data to later validations
-                Preferences preferences = new Preferences(getApplicationContext());
+                mPreferences preferences = new mPreferences(getApplicationContext());
                 preferences.saveUserPreferences(nomeUsuario, cellWdOutFormat, token);
 
 

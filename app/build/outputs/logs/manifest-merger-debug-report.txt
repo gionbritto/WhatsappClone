@@ -1,239 +1,239 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:3:5-56
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.SEND_SMS
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:7:5-25:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giovanne/.android/build-cache/fce82f00c67b16d30cea31d430424ae3e1bd91bd/output/AndroidManifest.xml:9:5-20
-MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] /home/giovanne/.android/build-cache/dc2b4b9fde4ad70987de017e65625cb88caea1f1/output/AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/giovanne/.android/build-cache/7bce76dc9c17fda828298bf49cafea491b676949/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/giovanne/.android/build-cache/9c0fa41df43d825f25a20ca461ed4ff455e512e9/output/AndroidManifest.xml:26:5-20
-MERGED from [com.google.firebase:firebase-core:10.0.1] /home/giovanne/.android/build-cache/c9d7579730b8de1bcf9f0cb7542d3da39beb0bee/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/giovanne/.android/build-cache/2afe662a1a89574ede0dd1864a526c424f70c875/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:10.0.1] /home/giovanne/.android/build-cache/5c64aef876ffd7bb9d9728d80a42add0bfb09feb/output/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/giovanne/.android/build-cache/85ddcbea272988bbcfc743ff18d998e18c777baa/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/giovanne/.android/build-cache/ff3a7e3df0c056dd8a9f094ad6c306a5c3e22c51/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/giovanne/.android/build-cache/4bbf79972a0b39d24c63edd3f50cf68909cedf13/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/giovanne/.android/build-cache/4135b9ee89c7a59b6221f5086b334f9d1bedf971/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/giovanne/.android/build-cache/008f44d2292b859096b98987f348acedc1a88f21/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/giovanne/.android/build-cache/ab71e4fb3ad5c80adc9baebdc0db16c03c78d6f4/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/giovanne/.android/build-cache/0132576b88b405cf4f055b7d3a955ae17afb11aa/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/giovanne/.android/build-cache/f8b94ff919a1aed9d2cdcb6bc39b72771fd61e65/output/AndroidManifest.xml:29:5-20
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DEV2\.android\build-cache\6bc7c8b2a178ca9ae76c6487610f3f26f24fb0cb\output\AndroidManifest.xml:9:5-20
+MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] C:\Users\DEV2\.android\build-cache\e11352414326fd0ecfc2224d58d699e9fb206217\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\962914edf2487e856db1bc01df26a0bc5e0d234f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\3cebe7916299f14ae79e1f5a3cf782d22db63670\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\4d3ab069ba136d53ed3a9a691d498e27d45e9757\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\DEV2\.android\build-cache\bff27aaa07bb13053cfca0c54b24f60538966dc8\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\DEV2\.android\build-cache\6d94490dae362754ac011d9346df0fb8aa6ec2a4\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\DEV2\.android\build-cache\24f748b18e11b330184337552587d05b8b909d4d\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\DEV2\.android\build-cache\85c09783f6b9580b08109dc27dfdba6bce395d03\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DEV2\.android\build-cache\96f5d0cae37a06eaa56517af3105a436526a695a\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\f4668d1455843445022dce7ab38dac1914747169\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\2309031f3a46aa9b0e2e34152b2b9d08a8c14ce7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\07b1f5215822363fba819581241686ec348fc4a1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\b5b9b55a7849e8a703247e123c15f94890b29468\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\760ca2c2d3e1d38f82cdf054fee6e3437e2c1d6d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\574f9c1bdb410841d397aed1e8f39290db86d4a5\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.whatsappandroid.cursoandroid.whatsapp.activity.MainActivity
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:14:9-68
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:14:9-68
 	android:name
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:14:19-56
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:14:19-56
 activity#com.whatsappandroid.cursoandroid.whatsapp.activity.LoginActivity
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:15:19-57
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:15:19-57
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.whatsappandroid.cursoandroid.whatsapp.activity.ValidatorActivity
-ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:22:9-24:20
+ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:22:9-24:20
 	android:name
-		ADDED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml:22:19-61
+		ADDED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml:22:19-61
 uses-sdk
-INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giovanne/.android/build-cache/fce82f00c67b16d30cea31d430424ae3e1bd91bd/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-database:10.0.1] /home/giovanne/.android/build-cache/c72a5d1ecb45fe8985fa5edd767353140558d954/output/AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/giovanne/.android/build-cache/1c7c5d4992a2201a451ba161764cab972cadd9f3/output/AndroidManifest.xml:3:5-42
-MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] /home/giovanne/.android/build-cache/dc2b4b9fde4ad70987de017e65625cb88caea1f1/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/giovanne/.android/build-cache/7bce76dc9c17fda828298bf49cafea491b676949/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/giovanne/.android/build-cache/9c0fa41df43d825f25a20ca461ed4ff455e512e9/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-core:10.0.1] /home/giovanne/.android/build-cache/c9d7579730b8de1bcf9f0cb7542d3da39beb0bee/output/AndroidManifest.xml:4:5-42
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/giovanne/.android/build-cache/2afe662a1a89574ede0dd1864a526c424f70c875/output/AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:10.0.1] /home/giovanne/.android/build-cache/5c64aef876ffd7bb9d9728d80a42add0bfb09feb/output/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/giovanne/.android/build-cache/85ddcbea272988bbcfc743ff18d998e18c777baa/output/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/giovanne/.android/build-cache/ff3a7e3df0c056dd8a9f094ad6c306a5c3e22c51/output/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/giovanne/.android/build-cache/4bbf79972a0b39d24c63edd3f50cf68909cedf13/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/giovanne/.android/build-cache/4135b9ee89c7a59b6221f5086b334f9d1bedf971/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/giovanne/.android/build-cache/008f44d2292b859096b98987f348acedc1a88f21/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/giovanne/.android/build-cache/ab71e4fb3ad5c80adc9baebdc0db16c03c78d6f4/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/giovanne/.android/build-cache/0132576b88b405cf4f055b7d3a955ae17afb11aa/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/giovanne/.android/build-cache/f8b94ff919a1aed9d2cdcb6bc39b72771fd61e65/output/AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DEV2\.android\build-cache\6bc7c8b2a178ca9ae76c6487610f3f26f24fb0cb\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\DEV2\.android\build-cache\5d4cfa8852fb80ee96a8debace846ad85d7acfbf\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\DEV2\.android\build-cache\aac39c080121d3ce37364f486e075e99bd98293a\output\AndroidManifest.xml:3:5-42
+MERGED from [com.github.rtoshiro.mflibrary:mflibrary:1.0.0] C:\Users\DEV2\.android\build-cache\e11352414326fd0ecfc2224d58d699e9fb206217\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\962914edf2487e856db1bc01df26a0bc5e0d234f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\3cebe7916299f14ae79e1f5a3cf782d22db63670\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\4d3ab069ba136d53ed3a9a691d498e27d45e9757\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\DEV2\.android\build-cache\bff27aaa07bb13053cfca0c54b24f60538966dc8\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\DEV2\.android\build-cache\6d94490dae362754ac011d9346df0fb8aa6ec2a4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\DEV2\.android\build-cache\24f748b18e11b330184337552587d05b8b909d4d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\DEV2\.android\build-cache\85c09783f6b9580b08109dc27dfdba6bce395d03\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DEV2\.android\build-cache\96f5d0cae37a06eaa56517af3105a436526a695a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\f4668d1455843445022dce7ab38dac1914747169\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\2309031f3a46aa9b0e2e34152b2b9d08a8c14ce7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\07b1f5215822363fba819581241686ec348fc4a1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\b5b9b55a7849e8a703247e123c15f94890b29468\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\760ca2c2d3e1d38f82cdf054fee6e3437e2c1d6d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\574f9c1bdb410841d397aed1e8f39290db86d4a5\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\962914edf2487e856db1bc01df26a0bc5e0d234f\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/giovanne/AndroidStudioProjects/Whatsapp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEV2\AndroidStudioProjects\WhatsappClone\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/giovanne/.android/build-cache/7bce76dc9c17fda828298bf49cafea491b676949/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/giovanne/.android/build-cache/9c0fa41df43d825f25a20ca461ed4ff455e512e9/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/giovanne/.android/build-cache/4bbf79972a0b39d24c63edd3f50cf68909cedf13/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/giovanne/.android/build-cache/4135b9ee89c7a59b6221f5086b334f9d1bedf971/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/giovanne/.android/build-cache/008f44d2292b859096b98987f348acedc1a88f21/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/giovanne/.android/build-cache/ab71e4fb3ad5c80adc9baebdc0db16c03c78d6f4/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/giovanne/.android/build-cache/0132576b88b405cf4f055b7d3a955ae17afb11aa/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/giovanne/.android/build-cache/f8b94ff919a1aed9d2cdcb6bc39b72771fd61e65/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\962914edf2487e856db1bc01df26a0bc5e0d234f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\3cebe7916299f14ae79e1f5a3cf782d22db63670\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\4d3ab069ba136d53ed3a9a691d498e27d45e9757\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\f4668d1455843445022dce7ab38dac1914747169\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\2309031f3a46aa9b0e2e34152b2b9d08a8c14ce7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\07b1f5215822363fba819581241686ec348fc4a1\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\b5b9b55a7849e8a703247e123c15f94890b29468\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\760ca2c2d3e1d38f82cdf054fee6e3437e2c1d6d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\574f9c1bdb410841d397aed1e8f39290db86d4a5\output\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\962914edf2487e856db1bc01df26a0bc5e0d234f\output\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\DEV2\.android\build-cache\962914edf2487e856db1bc01df26a0bc5e0d234f\output\AndroidManifest.xml:26:9-47
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/giovanne/.android/build-cache/2afe662a1a89574ede0dd1864a526c424f70c875/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:20:5-66
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\DEV2\.android\build-cache\6d94490dae362754ac011d9346df0fb8aa6ec2a4\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:20:22-64
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:20:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/giovanne/.android/build-cache/2afe662a1a89574ede0dd1864a526c424f70c875/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:19:5-78
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\DEV2\.android\build-cache\6d94490dae362754ac011d9346df0fb8aa6ec2a4\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:21:22-76
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:21:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/giovanne/.android/build-cache/2afe662a1a89574ede0dd1864a526c424f70c875/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:21:5-67
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\DEV2\.android\build-cache\6d94490dae362754ac011d9346df0fb8aa6ec2a4\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:22:22-65
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:22:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/giovanne/.android/build-cache/2afe662a1a89574ede0dd1864a526c424f70c875/output/AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\DEV2\.android\build-cache\6d94490dae362754ac011d9346df0fb8aa6ec2a4\output\AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/giovanne/.android/build-cache/2afe662a1a89574ede0dd1864a526c424f70c875/output/AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\DEV2\.android\build-cache\6d94490dae362754ac011d9346df0fb8aa6ec2a4\output\AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/giovanne/.android/build-cache/072677a160c6e9096ae9503259757abbfd7fbac2/output/AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\DEV2\.android\build-cache\a2c2817b3e02e8751c4601276dba24a89b1de54e\output\AndroidManifest.xml:32:16-87
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:22:5-81
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:22:22-79
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:22:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:30:9-36:20
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:30:9-36:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:31:13-35:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:31:13-35:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:32:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:33:17-85
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:33:17-85
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:33:25-83
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:33:25-83
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:34:17-60
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:34:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:34:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:34:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:40:9-119
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:40:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:40:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:40:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:40:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:40:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:44:9-48:19
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:44:9-48:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:44:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:44:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:44:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:44:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:45:13-47:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:45:13-47:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:45:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:45:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:46:17-79
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:46:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/giovanne/.android/build-cache/e6e5620f356feae8047260c756b710af4ed67042/output/AndroidManifest.xml:46:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\DEV2\.android\build-cache\a9005fae0e2cbe80556c7748352034c45393c879\output\AndroidManifest.xml:46:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.0.1] /home/giovanne/.android/build-cache/5c64aef876ffd7bb9d9728d80a42add0bfb09feb/output/AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\DEV2\.android\build-cache\24f748b18e11b330184337552587d05b8b909d4d\output\AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/giovanne/.android/build-cache/5c64aef876ffd7bb9d9728d80a42add0bfb09feb/output/AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\DEV2\.android\build-cache\24f748b18e11b330184337552587d05b8b909d4d\output\AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/giovanne/.android/build-cache/5c64aef876ffd7bb9d9728d80a42add0bfb09feb/output/AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\DEV2\.android\build-cache\24f748b18e11b330184337552587d05b8b909d4d\output\AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/giovanne/.android/build-cache/5c64aef876ffd7bb9d9728d80a42add0bfb09feb/output/AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\DEV2\.android\build-cache\24f748b18e11b330184337552587d05b8b909d4d\output\AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/giovanne/.android/build-cache/5c64aef876ffd7bb9d9728d80a42add0bfb09feb/output/AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\DEV2\.android\build-cache\24f748b18e11b330184337552587d05b8b909d4d\output\AndroidManifest.xml:6:79-143
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/giovanne/.android/build-cache/ff3a7e3df0c056dd8a9f094ad6c306a5c3e22c51/output/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DEV2\.android\build-cache\96f5d0cae37a06eaa56517af3105a436526a695a\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/giovanne/.android/build-cache/ff3a7e3df0c056dd8a9f094ad6c306a5c3e22c51/output/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DEV2\.android\build-cache\96f5d0cae37a06eaa56517af3105a436526a695a\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/giovanne/.android/build-cache/ff3a7e3df0c056dd8a9f094ad6c306a5c3e22c51/output/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\DEV2\.android\build-cache\96f5d0cae37a06eaa56517af3105a436526a695a\output\AndroidManifest.xml:20:20-65
