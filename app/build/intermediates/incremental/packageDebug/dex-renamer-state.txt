@@ -1,0 +1,7 @@
+#Sat Apr 28 14:53:45 BRT 2018
+base.0=/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23b85a495a6df4eff01b78baaf8e98c748041b99
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eb422c24f90ce2002dc2b28eb24194a30f1f2bd6/classes.dex
+base.1=/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eb422c24f90ce2002dc2b28eb24194a30f1f2bd6
+file.0=/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23b85a495a6df4eff01b78baaf8e98c748041b99/classes.dex

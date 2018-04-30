@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eb422c24f90ce2002dc2b28eb24194a30f1f2bd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/giovanne/.android/build-cache/dc2b4b9fde4ad70987de017e65625cb88caea1f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="29dbf7c84ce75d9b0837fe3b544de5ff41ced560">
+        <dex dex="/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f271862269ebb08dfc9e8a670373a68b9013ff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25dd3037048e985e4583d604578c4411e2cabb8d">
+        <dex dex="/home/giovanne/AndroidStudioProjects/Whatsapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23b85a495a6df4eff01b78baaf8e98c748041b99/classes.dex" />
+    </item>
+
+</items>
