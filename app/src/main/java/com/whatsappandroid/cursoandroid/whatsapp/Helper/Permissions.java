@@ -23,11 +23,13 @@ public class Permissions {
                 //Thie verify if I already have the fllowing permission
                Boolean validPerm =  ContextCompat.checkSelfPermission(activity, perm) == PackageManager.PERMISSION_GRANTED;
 
-               if( !validPerm ){
-                        permissionList.add(perm);
-               }
+               if( !validPerm ){ permissionList.add(perm); }
             }
 
+            if (permissionList.isEmpty()) {
+                return true;
+            }
+            
         }
 
         return true;
