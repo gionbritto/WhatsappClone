@@ -1,7 +1,10 @@
 package com.whatsappandroid.cursoandroid.whatsapp.activity;
 
 import android.Manifest;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.telephony.SmsManager;
@@ -36,7 +39,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        Permissions.validPermissions(this, necessaryPermissions);
+        Permissions.validPermissions(1, this, necessaryPermissions);
 
         telephone   = (EditText) findViewById(R.id.edt_cell_number);
         cCode       = (EditText) findViewById(R.id.edt_country_code);
@@ -116,7 +119,38 @@ public class LoginActivity extends AppCompatActivity {
         }
 
         return false;
+    }
+
+    //With this class we can check which permissions were denied
+    public void onRequestPermissionResult(int requestCode, String[] permissions, int[] grantResults){
+
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        //running throught the results
+        for(int result: grantResults){
+
+            if(result == PackageManager.PERMISSION_DENIED){
+                validationAlertPermission();
+            }
+
+        }
+
+    }
 
 
+    //Pop a message alerting about the permissions requests
+    private void validationAlertPermission(){
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("Permissoes negadas");         //alterar para uma string xml
+        builder.setMessage("Para utilizar o app e necessario aceitar as permissoes");
+
+        builder.setPositiveButton("CONFIRMAR", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                finish();
+            }
+        });
+
+        AlertDialog dialog = builder.create();
+        dialog.show();
     }
 }
