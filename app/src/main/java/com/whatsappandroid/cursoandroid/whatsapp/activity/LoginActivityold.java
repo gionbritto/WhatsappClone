@@ -4,11 +4,10 @@ import android.Manifest;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.telephony.SmsManager;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -20,10 +19,9 @@ import com.whatsappandroid.cursoandroid.whatsapp.Helper.Permissions;
 import com.whatsappandroid.cursoandroid.whatsapp.Helper.mPreferences;
 import com.whatsappandroid.cursoandroid.whatsapp.R;
 
-import java.util.HashMap;
 import java.util.Random;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivityold extends AppCompatActivity {
 
     private EditText userName;       //User name textfield
     private EditText telephone;     //Cellphone textField
@@ -94,13 +92,13 @@ public class LoginActivity extends AppCompatActivity {
 
                 if(smsSent){
 
-                    Intent intent = new Intent(LoginActivity.this, ValidatorActivity.class);
+                    Intent intent = new Intent(LoginActivityold.this, ValidatorActivity.class);
                     startActivity(intent);
                     finish();       //destroy the activity
 
                 } else{
 
-                    Toast.makeText(LoginActivity.this, "Error in sms sent... Try again!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(LoginActivityold.this, "Error in sms sent... Try again!", Toast.LENGTH_LONG).show();
                 }
 
                 /*

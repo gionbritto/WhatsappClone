@@ -19,11 +19,12 @@
 
 
     <EditText
-        android:id="@+id/edt_name"
+        android:id="@+id/edt_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/login_hint"
+        android:hint="@string/email_hint"
         android:textColor="@color/textColorPrimary"
+        android:inputType="textEmailAddress"
         android:layout_below="@id/img_wpp_logo"
         android:layout_marginTop="24dp"
         android:paddingTop="9dp"
@@ -31,49 +32,26 @@
         android:paddingLeft="9dp"/>
 
     <EditText
-        android:id="@+id/edt_country_code"
-        android:layout_width="50dp"
-        android:layout_height="wrap_content"
-        android:hint="@string/country_code"
-        android:textColor="@color/textColorPrimary"
-        android:layout_below="@id/edt_name"
-        android:layout_marginTop="32dp"
-        android:inputType="number"/>
-
-    <EditText
-        android:id="@+id/edt_state_code"
-        android:layout_width="50dp"
-        android:layout_height="wrap_content"
-        android:hint="@string/state_code"
-        android:textColor="@color/textColorPrimary"
-        android:layout_alignBaseline="@+id/edt_country_code"
-        android:layout_alignBottom="@+id/edt_country_code"
-        android:layout_alignLeft="@+id/img_wpp_logo"
-        android:layout_alignStart="@+id/img_wpp_logo"
-        android:inputType="number"/>
-
-    <EditText
-        android:id="@+id/edt_cell_number"
+        android:id="@+id/edt_senha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/cell_number"
+        android:hint="@string/pass_hint"
         android:textColor="@color/textColorPrimary"
-        android:layout_alignBaseline="@+id/edt_state_code"
-        android:layout_alignBottom="@+id/edt_state_code"
-        android:layout_toRightOf="@+id/edt_state_code"
-        android:layout_toEndOf="@+id/edt_state_code"
-        android:layout_marginLeft="15dp"
-        android:layout_marginStart="15dp"
-        android:inputType="number"/>
+        android:inputType="textVisiblePassword"
+        android:layout_below="@id/edt_email"
+        android:layout_marginTop="24dp"
+        android:paddingTop="9dp"
+        android:paddingBottom="9dp"
+        android:paddingLeft="9dp"/>
 
     <Button
-        android:id="@+id/btn_signup"
+        android:id="@+id/btn_signin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btn_cadastrar"
+        android:text="@string/btn_signin"
         android:background="@color/colorPrimaryDark"
         android:layout_marginTop="54dp"
         android:textColor="#FFFFFF"
-        android:layout_below="@+id/edt_state_code"/>
+        android:layout_below="@+id/edt_senha"/>
 
 </RelativeLayout>
