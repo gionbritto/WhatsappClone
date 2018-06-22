@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:padding="24dp"
+    tools:context="com.whatsappandroid.cursoandroid.whatsapp.activity.LoginActivity">
+
+
+    <ImageView
+        android:id="@+id/img_wpp_logo"
+        android:layout_width="200dp"
+        android:layout_height="163dp"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"/>
+
+
+    <EditText
+        android:id="@+id/edt_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/login_hint"
+        android:textColor="@color/textColorPrimary"
+        android:layout_below="@id/img_wpp_logo"
+        android:layout_marginTop="24dp"
+        android:paddingTop="9dp"
+        android:paddingBottom="9dp"
+        android:paddingLeft="9dp"/>
+
+    <EditText
+        android:id="@+id/edt_country_code"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/country_code"
+        android:textColor="@color/textColorPrimary"
+        android:layout_below="@id/edt_name"
+        android:layout_marginTop="32dp"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/edt_state_code"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/state_code"
+        android:textColor="@color/textColorPrimary"
+        android:layout_alignBaseline="@+id/edt_country_code"
+        android:layout_alignBottom="@+id/edt_country_code"
+        android:layout_alignLeft="@+id/img_wpp_logo"
+        android:layout_alignStart="@+id/img_wpp_logo"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/edt_cell_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/cell_number"
+        android:textColor="@color/textColorPrimary"
+        android:layout_alignBaseline="@+id/edt_state_code"
+        android:layout_alignBottom="@+id/edt_state_code"
+        android:layout_toRightOf="@+id/edt_state_code"
+        android:layout_toEndOf="@+id/edt_state_code"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:inputType="number"/>
+
+    <Button
+        android:id="@+id/btn_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_cadastrar"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="54dp"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/edt_state_code"/>
+
+</RelativeLayout>
