@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">390313303005-0d668jt47nvid1pku4gek4o513pcv3s5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://whatsapp-39ccc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">390313303005</string>
+    <string name="google_api_key" translatable="false">AIzaSyDQQwsULVYdF7reQV96cXcxao4T7LY5UoQ</string>
+    <string name="google_app_id" translatable="false">1:390313303005:android:ade3a695aa35d1d1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQQwsULVYdF7reQV96cXcxao4T7LY5UoQ</string>
+    <string name="google_storage_bucket" translatable="false">whatsapp-39ccc.appspot.com</string>
+    <string name="project_id" translatable="false">whatsapp-39ccc</string>
+</resources>

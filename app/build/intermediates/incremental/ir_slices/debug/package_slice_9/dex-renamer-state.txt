@@ -1,0 +1,4 @@
+#Thu Jun 21 21:45:07 BRT 2018
+base.0=/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

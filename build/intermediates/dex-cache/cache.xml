@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/f8b94ff919a1aed9d2cdcb6bc39b72771fd61e65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_d60f7693b9180d08147662b17282c7673567ea15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/ab71e4fb3ad5c80adc9baebdc0db16c03c78d6f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_a83f415ceb9686b1a1549527be7110282ccd2c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/4135b9ee89c7a59b6221f5086b334f9d1bedf971/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_420560f1764e3b5b2b7402fdb670bc8c56c4f325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_4130bc0899b68bf9dd3aef0e6205912bab96f8dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/0132576b88b405cf4f055b7d3a955ae17afb11aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_b63bac1b725ba634c19b292b0fb43bfba2e2c863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/4bbf79972a0b39d24c63edd3f50cf68909cedf13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_f3407e474d7e6b74fc69a71805b1a88d056b7c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/9c0fa41df43d825f25a20ca461ed4ff455e512e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_221bcf6c976d422e3796a8b0b38fc48a9b74660d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/008f44d2292b859096b98987f348acedc1a88f21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_080099854634664642b64d6073bc4c8fefd07fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/2521927e904fa8015a6a99a0d2a822ca607710fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_6b78dcb6acdf2164797f6eec6604ef1397a433a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/giovanne/.android/build-cache/7bce76dc9c17fda828298bf49cafea491b676949/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/pre-dexed/debug/classes_2491bc9ddeb26477aeb631fdaeeec4b3e2e86600.jar" />
+    </item>
+
+</items>
