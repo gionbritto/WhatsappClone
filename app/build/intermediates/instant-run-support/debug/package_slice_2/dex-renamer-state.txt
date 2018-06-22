@@ -1,4 +1,0 @@
-#Tue Jun 19 19:45:18 BRT 2018
-base.0=/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
-renamed.0=classes.dex
-file.0=/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

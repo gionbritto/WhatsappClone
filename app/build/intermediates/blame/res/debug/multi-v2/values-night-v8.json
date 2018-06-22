@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/giovanne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f4f768526f24c0a456f885a72a0fa1ac/res/values-night-v8/values-night-v8.xml",
+                    "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

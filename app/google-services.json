@@ -23,8 +23,12 @@
           }
         },
         {
-          "client_id": "390313303005-0d668jt47nvid1pku4gek4o513pcv3s5.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "390313303005-kuh620r6tc00u5389d0na0nmtltpio2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whatsappandroid.cursoandroid.whatsapp",
+            "certificate_hash": "1c168b787f51e81a388c2f30b2afde3fdf7c2a02"
+          }
         },
         {
           "client_id": "390313303005-0d668jt47nvid1pku4gek4o513pcv3s5.apps.googleusercontent.com",

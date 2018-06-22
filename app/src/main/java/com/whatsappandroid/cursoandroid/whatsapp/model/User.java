@@ -47,7 +47,7 @@ public class User {
         this.email = email;
     }
 
-    @Exclude
+    //@Exclude
     public String getPass() {
         return pass;
     }

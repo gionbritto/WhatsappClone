@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/giovanne/AndroidStudioProjects/WhatsappClone-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
-                    "source": "/home/giovanne/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/44de65931eee4fd8d167e5c8e0c405fe/res/values-vi/values.xml",
+                    "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\f607201ae78fa5fe696b20134e7ebc11\\res\\values-vi\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/giovanne/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/0ed101cb4b1606dc1d5349e94e139fc9/res/values-vi/values.xml",
+                    "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.0.1.aar\\df6e541bae7e32b8d0acad05ed996776\\res\\values-vi\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/giovanne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f4f768526f24c0a456f885a72a0fa1ac/res/values-vi/values-vi.xml",
+                    "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
