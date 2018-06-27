@@ -7,6 +7,7 @@ import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -18,6 +19,8 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
+import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
+import com.google.firebase.auth.FirebaseAuthInvalidUserException;
 import com.google.firebase.database.DatabaseReference;
 
 import com.whatsappandroid.cursoandroid.whatsapp.R;
@@ -41,7 +44,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         edtUserEmail = (EditText) findViewById(R.id.edt_email_login);
-        edtUserPass = (EditText) findViewById(R.id.edt_email_login);
+        edtUserPass = (EditText) findViewById(R.id.edt_pass_login);
         btnSignUp = (Button) findViewById(R.id.btn_signin_login);
 
         btnSignUp.setOnClickListener(new View.OnClickListener() {
@@ -53,6 +56,7 @@ public class LoginActivity extends AppCompatActivity {
                 user.setPass( edtUserPass.getText().toString());
 
                 validateLogin();
+                Log.i("DADOS: ", user.getPass());
 
             }
         });
@@ -89,7 +93,9 @@ public class LoginActivity extends AppCompatActivity {
                     }  catch (Exception e) {
                         e.printStackTrace();
                         loginMessage = "Login Error!";
+                        Log.i("ERRO: ", e.toString());
                         Toast.makeText(LoginActivity.this, loginMessage, Toast.LENGTH_SHORT).show();
+
                     }
                 }
             }
