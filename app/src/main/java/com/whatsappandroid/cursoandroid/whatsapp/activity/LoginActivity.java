@@ -43,6 +43,8 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
+        verifyUserStatus();
+
         edtUserEmail = (EditText) findViewById(R.id.edt_email_login);
         edtUserPass = (EditText) findViewById(R.id.edt_pass_login);
         btnSignUp = (Button) findViewById(R.id.btn_signin_login);
@@ -62,6 +64,26 @@ public class LoginActivity extends AppCompatActivity {
         });
 
     }
+
+    public void verifyUserStatus(){
+
+        /*
+        This methods occurs in two steps first we get the firebase reference e
+        put It in the objetc of a FirebaseAuth that we have.
+        After that we check if this instance getting the currentUser is null or not,
+        if It's not. that means we have a user already signed in and just redirects to
+        tha mainActivity
+         */
+        firebaseAuth = FirebaseConfig.getFirebaseAuth();
+
+        if(firebaseAuth.getCurrentUser() != null){
+
+            openPrincipalActivity();
+
+        }
+
+    }
+
 
     public void openUserSignup(View view){
         Intent intent = new Intent(LoginActivity.this, UserSignupActivity.class);
@@ -107,6 +129,7 @@ public class LoginActivity extends AppCompatActivity {
 
         Intent intent = new Intent(LoginActivity.this, MainActivity.class);
         startActivity(intent);
+        finish();
 
     }
 

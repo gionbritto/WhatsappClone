@@ -468,6 +468,10 @@
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\f607201ae78fa5fe696b20134e7ebc11\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
@@ -1144,6 +1148,10 @@
         "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\layout\\abc_activity_chooser_view.xml"
     },
@@ -1332,6 +1340,10 @@
         "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\drawable\\usuario.png"
     },
     {
+        "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -1382,6 +1394,10 @@
     {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
     },
     {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
@@ -1454,6 +1470,10 @@
     {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
     },
     {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1816,6 +1836,10 @@
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\layout-v21\\notification_template_icon_group.xml"
     },
@@ -1830,5 +1854,9 @@
     {
         "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\DEV2\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\ee47389f6df283cefe99e7fb05900466\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "D:\\DEV2\\AndroidStudioProjects\\WhatsappClone\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
     }
 ]

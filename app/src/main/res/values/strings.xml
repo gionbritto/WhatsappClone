@@ -17,5 +17,7 @@
     <!--Login-->
     <string name="without_password">Nao tem conta? Cadastre-se</string>
     <string name="title_activity_user_signup">UserSignupActivity</string>
+    <!--menu-->
+    <string name="action_settings">Action Settings</string>
 
 </resources>
