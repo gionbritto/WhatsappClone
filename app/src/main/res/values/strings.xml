@@ -18,6 +18,9 @@
     <string name="without_password">Nao tem conta? Cadastre-se</string>
     <string name="title_activity_user_signup">UserSignupActivity</string>
     <!--menu-->
-    <string name="action_settings">Action Settings</string>
+    <string name="settings_item">Configurações</string>
+    <string name="exit_item">Sair</string>
+    <string name="search_item">Pesquisar</string>
+    <string name="add_user_item">Adicionar</string>
 
 </resources>

@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button btnLogout;
     private FirebaseAuth auth;
-    private android.support.v7.widget.Toolbar toolbar; //Instantiate the toolbar type v7
+    private android.support.v7.widget.Toolbar mToolbar; //Instantiate the toolbar type v7
 
 
 
@@ -32,9 +32,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //tootlbarconfigs
-        toolbar = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar);
-        toolbar.setTitle("WhatsApp");
-        setSupportActionBar(toolbar); //methods of support to a actionbar(must use)
+        mToolbar = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar);
+        mToolbar.setTitle("WhatsApp");
+        setSupportActionBar(mToolbar); //methods of support to a actionbar(must use)
 
     }
 
