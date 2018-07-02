@@ -75,10 +75,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_cadastrar"
-        android:background="@color/colorPrimaryDark"
         android:layout_marginTop="54dp"
-        android:textColor="#FFFFFF"
-        android:layout_below="@+id/edt_senha"/>
+        android:layout_below="@+id/edt_senha"
+        android:theme="@style/button"/>
 
 
 </RelativeLayout>

@@ -51,11 +51,11 @@ public final class R {
         public static final int common_google_signin_btn_text_light_pressed = 0x7f060067;
     }
     public static final class id {
-        public static final int adjust_height = 0x7f070016;
-        public static final int adjust_width = 0x7f070017;
-        public static final int auto = 0x7f07001b;
-        public static final int dark = 0x7f07002b;
-        public static final int icon_only = 0x7f070041;
+        public static final int adjust_height = 0x7f070015;
+        public static final int adjust_width = 0x7f070016;
+        public static final int auto = 0x7f07001a;
+        public static final int dark = 0x7f07002a;
+        public static final int icon_only = 0x7f070040;
         public static final int light = 0x7f07004a;
         public static final int none = 0x7f070053;
         public static final int normal = 0x7f070054;

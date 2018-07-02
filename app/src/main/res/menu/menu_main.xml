@@ -19,7 +19,7 @@
         />
 
     <item
-        android:id="@+id/action_sttings"
+        android:id="@+id/item_settings"
         android:title="@string/settings_item"
         android:orderInCategory="100"
         app:showAsAction="never" />
