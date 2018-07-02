@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toolbar;
+import android.support.v7.widget.Toolbar;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
@@ -22,8 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button btnLogout;
     private FirebaseAuth auth;
-    private android.support.v7.widget.Toolbar mToolbar; //Instantiate the toolbar type v7
-
+    private Toolbar mToolbar; //Instantiate the toolbar type v7
 
 
     @Override
@@ -32,9 +31,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //tootlbarconfigs
-        mToolbar = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar);
-        mToolbar.setTitle("WhatsApp");
-        setSupportActionBar(mToolbar); //methods of support to a actionbar(must use)
+         mToolbar = (Toolbar) findViewById(R.id.toolbar_principal);
+         mToolbar.setTitle("WhatsApp");
+         setSupportActionBar(mToolbar); //methods of support to a actionbar(must use), if we don't use this, onCreateOptionsMenu doesn't is called
 
     }
 
@@ -47,4 +46,5 @@ public class MainActivity extends AppCompatActivity {
         inflater.inflate(R.menu.menu_main, menu);
         return true;
     }
+
 }

@@ -43,7 +43,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        verifyUserStatus();
+       verifyUserStatus();
 
         edtUserEmail = (EditText) findViewById(R.id.edt_email_login);
         edtUserPass = (EditText) findViewById(R.id.edt_pass_login);
@@ -74,6 +74,7 @@ public class LoginActivity extends AppCompatActivity {
         if It's not. that means we have a user already signed in and just redirects to
         tha mainActivity
          */
+
         firebaseAuth = FirebaseConfig.getFirebaseAuth();
 
         if(firebaseAuth.getCurrentUser() != null){
